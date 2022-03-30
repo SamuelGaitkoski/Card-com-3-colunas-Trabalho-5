@@ -1,0 +1,12 @@
+Nome: Samuel Gaitkoski de Almeida
+
+Trabalho 5 - Card com 3 colunas
+
+Projeto: Card com 3 colunas
+Autor: Samuel Gaitkoski de Almeida
+Início: 22/02/2022
+Conclusão: 23/02/2022
+Estimado: 2 horas
+Tempo: 4 horas
+Versão: 1
+Trabalho feito utilizando o CSS Flexbox 
